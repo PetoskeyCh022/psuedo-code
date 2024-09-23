@@ -1,3 +1,7 @@
+# Charles
+# 9/23/24
+# Psuedo Code
+
 a_leg = int(input("Enter the A leg value of your right triangle: "))
 b_leg = int(input("Enter the B leg value of your right triangle: "))
 area = a_leg * b_leg / 2
